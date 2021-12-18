@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xXSwainXx
+- 👀 I’m interested in Web-Devlopment
+- 🌱 I’m currently learning nothing ;)
+- 💞️ I’m not looking to collaborate :)
+- 📫 How to reach me admin@xxswainxx.dev
