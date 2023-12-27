@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web-Devlopment
 - 🌱 I’m currently learning nothing ;)
 - 💞️ I’m not looking to collaborate :)
-- 📫 How to reach me admin@xxswainxx.dev
+- 📫 How to reach me mail@plantaria.info
 
 <br/>  
 
