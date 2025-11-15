@@ -28,7 +28,7 @@ Ich entwickele moderne, performante Web-Anwendungen mit React, Next.js und TypeS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xXSwainXx&layout=compact&hide_border=true&theme=radical&hide=php)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DEIN_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=xXSwainXx&theme=radical&hide_border=true)
 
 </div>
 
